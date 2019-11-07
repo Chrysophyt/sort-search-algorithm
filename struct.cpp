@@ -92,3 +92,4 @@ int main(){
     std::cout << "\n Student with NIM 18/431262/PA/18928 are " << getStudentWithNIM(students, 6, "18/431262/PA/18928").name;
 }
 
+//    github.com/Chrysophyt/sort-search-algorithm
